@@ -68,7 +68,7 @@ And we use keras preprocessing image ImageDataGenerator to make image augmentati
 
 ### 5 - [Keras-CNN-FASHION-MNIST.ipynb](https://nbviewer.jupyter.org/github/ahmedatef1610/Deep-Learning-Computer-Vision/blob/master/04-Keras-CNN-FASHION-MNIST.ipynb) 
 
-Your task is to build an image classifier with Keras and Convolutional Neural Networks for the Fashion MNIST dataset. 
+Your task is to build an image classifier with Keras and Convolutional Neural Networks for the [Fashion MNIST dataset](https://www.kaggle.com/zalando-research/fashionmnist). 
 
 This data set includes 10 labels of different clothing types with 28 by 28 grayscale images. There is a training set of 60,000 images and 10,000 test images.
 
